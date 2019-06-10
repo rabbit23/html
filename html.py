@@ -38,7 +38,7 @@ message = raw_input("message : ")
 print wd+" "
 message2 = raw_input("cotact you (example : nitfound@yahoo.com : " )
 print wd+" "
-textcolor = raw_input("color text (example=green): ")
+
 print wd+" "
 youtubeid = raw_input("youtube code (MUSIC): ")
 
