@@ -448,4 +448,4 @@ fo.write(messagescript15)
 
 print GG+ "Successfully !!"
 
-os.close()
+os.system("exit")
