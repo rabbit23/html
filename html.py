@@ -448,4 +448,8 @@ fo.write(messagescript15)
 
 print GG+ "Successfully !!"
 
+os.system("mv scriptku.html /storage/emulated/0")
+
+print CC+ "Your File In Storage Emulated Check right now!"
+
 os.system("exit")
