@@ -30,7 +30,7 @@ title = raw_input("subs title ")
 print wd+" "
 heading = raw_input("nickname: ")
 print wd+" "
-magelink = raw_input("link images (center): ")
+imagelink = raw_input("link images (center): ")
 print wd+" "
 messagein = raw_input("Message loading : " )
 print wd+" "
