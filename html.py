@@ -21,7 +21,7 @@ mess = """\033[96m==============================================================
 \033[96m===============================================================\033[0m
                   \033[36mTools Design By suhandi\033[0m
        \033[34mcreated your HTML file in my tools so easy steps\033[0m
-                \033[31mCIREBON PROGRAMMER COMUNITY\033[0m
+                \033[31mCIREBON PROGRAMMER CREATIVITY\033[0m
 \033[96m===============================================================\033[0m"""
 
 print mess
