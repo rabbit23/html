@@ -452,6 +452,6 @@ os.system("mv scriptku.html /storage/emulated/0")
 print ""
 
 
-runntxt(CC+ "Your File In Storage Emulated Check right now![scriptku.html] ")
+print CC+ "Your File In Storage Emulated Check right now![scriptku.html] "
 
 os.system("exit")
